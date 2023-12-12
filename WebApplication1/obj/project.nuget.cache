@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbYuPIT+yYsZ4oCkNB8+NZOk8cD2bDW9jNJR7hha15zM3op3RAYcnTKV/IK4JRAV4+4cXNJFrTM15V32c6iEIQ==",
+  "dgSpecHash": "ruRej+ZXDkq30pP3Ymf/kTiNuvdxsEGKDgXuZsjWxzA5/L0z5BKlgOrbpiNzMMNMhbUjJUWjPqyfz9+w/t6urA==",
   "success": true,
-  "projectFilePath": "E:\\university\\k3s1\\db\\rgr-db-kpi-main\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "E:\\university\\k3s1\\db\\rgr-db-kpi-main\\orm-rgr-db-kpi\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dark_requiem\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\dark_requiem\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
